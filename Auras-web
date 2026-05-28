@@ -1,9 +1,1 @@
-pages/index.js
-export default function Home() {
-  return (
-    <div style={{textAlign:"center",marginTop:100}}>
-      <h1>AURA'S 💘</h1>
-      <p>Web test çalışıyor</p>
-    </div>
-  );
-}
+
